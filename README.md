@@ -44,18 +44,6 @@ GitHub
 JDK
 ```
 
-## General Repository Structure
-
-The repository can generally be organized as follows:
-
-```text
-JAVA/
-├── Bankomat/
-├── Calculator/
-├── TeyyareBileti/
-├── Velosiped/
-└── README.md
-```
 
 Each folder represents a separate Java project.
 
